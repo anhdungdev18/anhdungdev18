@@ -72,8 +72,6 @@
 
 ## Connect with me
 
-📧 Email: [your_email@gmail.com](mailto:your_email@gmail.com)
+📧 Email: [trananhdung18122004@gmail.com](trananhdung18122004@gmail.comm)
 
-🔗 LinkedIn: your_linkedin
-
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: https://github.com/anhdungdev18
